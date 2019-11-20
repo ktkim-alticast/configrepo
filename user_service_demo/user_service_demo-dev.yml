@@ -1,0 +1,18 @@
+# Test
+example.property: "DEV Env!!"
+
+# Application Config
+server.port: 8181
+server.context-path: "/user"
+spring.application.name: "user-mgmt"
+
+spring:
+  data:
+    mongodb:
+      host: "localhost"
+      port: 27017
+      database: "[데이터베이스 이름]"
+      username: "[id]"
+      password: "[PW]"
+#      uri: "mongodb://root:root@localhost:27017/test_db"
+
