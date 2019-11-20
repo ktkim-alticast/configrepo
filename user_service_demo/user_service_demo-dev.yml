@@ -1,10 +1,10 @@
 # Test
 example.property: "DEV Env!!"
 
-# Application Config
-server.port: 8181
-server.context-path: "/user"
-spring.application.name: "user-mgmt"
+# # Application Config
+# server.port: 8181
+# server.context-path: "/user"
+# spring.application.name: "user-mgmt"
 
 spring:
   data:
