@@ -1,9 +1,6 @@
 # Test
 example.property: "Prod Env!!"
 
-# Application Config
-server.port: 8181
-
 spring:
   data:
     mongodb:
