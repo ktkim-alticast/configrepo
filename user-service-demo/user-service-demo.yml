@@ -1,5 +1,5 @@
 # Test
-example.property: "User Management Server!!!!!!!!!!!!"
+example.property: "User Management Server"
 
 spring:
   data:
