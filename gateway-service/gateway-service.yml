@@ -12,3 +12,4 @@ zuul:
       serviceId: hystrix-server-sample
     hystrix_server_path3:
       path: /autoride/hysrix/**
+      serviceId: hystrix-server-sample
