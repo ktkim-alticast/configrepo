@@ -10,3 +10,6 @@ zuul:
     hystrix_server_path2:
       path: /plat/hystrix/**
       serviceId: hystrix-server-sample
+    hystrix_server_path3:
+      path: /autoride/hystrix/**
+      serviceId: hystrix-server-sample
