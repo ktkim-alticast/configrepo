@@ -1,4 +1,4 @@
-example.property: test
+example.property: test11
 
 eureka:
   instance:
